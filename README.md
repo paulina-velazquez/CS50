@@ -15,4 +15,4 @@
 - Lecture 7 - SQL
 - Lecture 8 - HTML, CSS, JavaScript
 - Lecture 9 - Flask
-- Lecture 10 - The End
+- Lecture 10 - Ethics/Final Project
