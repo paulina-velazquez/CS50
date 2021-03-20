@@ -16,3 +16,8 @@
 - Lecture 8 - HTML, CSS, JavaScript
 - Lecture 9 - Flask
 - Lecture 10 - Ethics/Final Project
+
+
+### CS50W - Web Programming with Python and JavaScript Lectures
+
+- Lecture 0 - HTML, CSS
