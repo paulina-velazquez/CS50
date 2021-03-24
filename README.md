@@ -21,3 +21,4 @@
 ### CS50W - Web Programming with Python and JavaScript Lectures
 
 - Lecture 0 - HTML, CSS
+- Lecture 1 - Git
