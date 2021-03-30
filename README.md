@@ -22,3 +22,4 @@
 
 - Lecture 0 - HTML, CSS
 - Lecture 1 - Git
+- Lecture 2 - Python
